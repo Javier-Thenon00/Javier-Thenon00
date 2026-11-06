@@ -6,14 +6,14 @@
 <div align="center">
 
   <a href="https://github.com/Javier-Thenon00">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=0D9488&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Javier+%F0%9F%91%8B;Aprendiendo+SQL+y+l%C3%B3gica+de+programaci%C3%B3n;Construyendo+mis+primeros+proyectos" alt="Presentación animada" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=0D9488&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Javier+%F0%9F%91%8B;Formaci%C3%B3n+t%C3%A9cnica+en+computaci%C3%B3n;Retomando+SQL+y+programaci%C3%B3n;Construyendo+proyectos+paso+a+paso" alt="Presentación animada" />
   </a>
 
   <br/>
 
   <img src="https://img.shields.io/badge/Argentina-0F172A?style=for-the-badge&logo=googlemaps&logoColor=5EEAD4" alt="Argentina" />
   <img src="https://img.shields.io/badge/En%20formaci%C3%B3n-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" alt="En formación" />
-  <img src="https://img.shields.io/badge/Abierto%20a%20aprender-164E63?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Abierto a aprender" />
+  <img src="https://img.shields.io/badge/Aprendizaje%20continuo-164E63?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Aprendizaje continuo" />
 
 </div>
 
@@ -21,14 +21,22 @@
 
 ## 👋 Sobre mí
 
-Estoy dando mis primeros pasos en tecnología y análisis de datos. Me interesa aprender a trabajar con información, comprender cómo funcionan los sistemas y desarrollar soluciones de manera lógica y ordenada.
+Soy **Técnico en Computación** y cuento con formación técnica en informática y programación. Durante la secundaria tuve contacto con distintos lenguajes y tecnologías; actualmente estoy retomando esos conocimientos de manera progresiva, con práctica y proyectos.
 
-Mi experiencia en **atención al cliente, soporte operativo y tareas administrativas** me permitió desarrollar habilidades de comunicación, seguimiento, organización y resolución de problemas. Ahora estoy sumando conocimientos técnicos para ampliar mi perfil profesional.
+Mi experiencia en **atención al cliente, soporte operativo y tareas administrativas** me permitió desarrollar habilidades de comunicación, seguimiento, organización y resolución de problemas. Estoy complementando esa experiencia con formación técnica para ampliar mi perfil profesional.
 
 - 🔎 Me interesa el análisis y la organización de datos.
-- 📘 Estoy consolidando mis conocimientos de SQL.
-- 🧩 Quiero fortalecer mi lógica de programación.
+- 🗃️ Estoy reforzando SQL y los fundamentos de bases de datos.
+- 💻 Estoy recuperando la lógica de programación paso a paso.
+- 🧪 Me interesa practicar con SQL, Python, C++ y Java.
 - 🚀 Mi objetivo es crear proyectos prácticos y documentar lo que voy aprendiendo.
+
+## 🎓 Formación académica
+
+**Técnico en Computación**  
+Escuela Técnica Nº 35 D.E.18 Ing. Eduardo Latzina
+
+Formación técnica escolar con contenidos de informática, programación y bases de datos. Durante esta etapa tuve acercamiento a SQL, Java, Python, C++ y otros temas relacionados con computación. Actualmente estoy repasando esos contenidos para recuperar práctica y afianzar conceptos.
 
 ## 🧭 Mi camino de aprendizaje
 
@@ -36,35 +44,43 @@ Mi experiencia en **atención al cliente, soporte operativo y tareas administrat
 
 | Tecnología | Mi recorrido |
 |:--|:--|
-| <img src="https://img.shields.io/badge/SQL-0F766E?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> | Fundamentos aprendidos · En práctica |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/> | Próximo paso: lógica y fundamentos |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> | Objetivo de aprendizaje futuro |
+| <img src="https://img.shields.io/badge/SQL-0F766E?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> | Formación previa y curso completado · Actualmente practicando |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> | Formación previa · Próximo paso para retomar desde las bases |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/> | Formación previa · Próximo paso: lógica y fundamentos |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> | Formación previa · Para repasar más adelante |
 | <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="Git y GitHub"/> | Aprendiendo control de versiones y portfolio |
 
 </div>
 
-## 🛠️ Herramientas y tecnologías
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL / SQL" /></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel" /></a>
 
 </div>
 
-## 🎓 Formación
+<sub>Los lenguajes indicados forman parte de mi formación previa; estoy retomándolos gradualmente y no los presento como conocimientos avanzados o de dominio profesional.</sub>
 
-**Curso de SQL — AprendeSQL.dev**
+## 📚 Cursos y certificaciones
 
-Contenidos abordados:
-- Consultas, filtros y ordenamiento de datos.
-- Agrupaciones y funciones básicas.
-- Unión de tablas con `JOIN`.
-- Manejo de valores nulos con `NULL`.
+**Aprende SQL — AprendeSQL.dev**
+
+Certificado de finalización emitido el 6 de noviembre de 2026.
+
+- 29 lecciones, 112 ejercicios y 7 exámenes completados.
+- Consultas y filtros: `SELECT`, `WHERE`, `LIKE`, `IN`, `ORDER BY`.
+- Uniones y valores nulos: `INNER JOIN`, `LEFT JOIN`, `NULL`.
+- Agregación: `COUNT`, `SUM`, `GROUP BY`, `HAVING`.
+- Manipulación y estructura de datos: `INSERT`, `UPDATE`, `DELETE`, `CREATE`, claves foráneas e índices.
+- Consultas avanzadas: subconsultas, `UNION`, CTE y funciones de ventana como `OVER` y `ROW_NUMBER`.
+- Introducción al ecosistema: SQLite, MySQL, Node.js y NoSQL.
 
 ## 📌 Proyectos
 
