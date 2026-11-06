@@ -82,13 +82,30 @@ Certificado de finalización emitido el 6 de noviembre de 2026.
 - Consultas avanzadas: subconsultas, `UNION`, CTE y funciones de ventana como `OVER` y `ROW_NUMBER`.
 - Introducción al ecosistema: SQLite, MySQL, Node.js y NoSQL.
 
-## 📌 Proyectos
+## 🚀 Proyectos destacados
 
-Estoy preparando mis primeros proyectos prácticos. Quiero que cada repositorio tenga ejemplos claros, instrucciones para ejecutarlos y una explicación de lo aprendido.
+Estoy construyendo proyectos prácticos para aplicar lo que voy aprendiendo. Cada uno incluye su código, una explicación de su funcionamiento y, cuando corresponde, una demo web para probarlo.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Pr%C3%B3ximamente-Mis%20primeros%20proyectos-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Próximamente mis primeros proyectos" />
-</div>
+### 📦 Gestión de stock — SQL + demo web
+Sistema de práctica para organizar productos, existencias y movimientos de inventario. Incluye una base de datos PostgreSQL y una demostración visual interactiva.
+- **Tecnologías:** PostgreSQL, SQL, HTML, CSS y JavaScript.
+- [Ver demo web](https://javier-thenon00.github.io/gestion-stock-sql/) · [Ver código y consultas SQL](https://github.com/Javier-Thenon00/gestion-stock-sql)
+
+### 💸 Control de gastos
+Aplicación web para registrar ingresos y egresos, consultar balances y exportar movimientos a CSV.
+- **Tecnologías:** HTML, CSS y JavaScript.
+- [Probar aplicación](https://javier-thenon00.github.io/control-gastos/) · [Ver repositorio](https://github.com/Javier-Thenon00/control-gastos)
+
+### 🎮 Tres en línea
+Juego interactivo para dos participantes, con detección de victorias y empates, marcador y reinicio de partidas.
+- **Tecnologías:** HTML, CSS y JavaScript.
+- [Jugar en el navegador](https://javier-thenon00.github.io/juego-tres-en-linea/) · [Ver repositorio](https://github.com/Javier-Thenon00/juego-tres-en-linea)
+
+### 🌐 Portfolio personal
+Sitio web de presentación con información profesional, formación y proyectos.
+- **Tecnologías:** HTML, CSS y JavaScript.
+- [Ver portfolio](https://javier-thenon00.github.io/portafolio-personal/) · [Ver repositorio](https://github.com/Javier-Thenon00/portafolio-personal)
+
 
 ## 🌱 Objetivo
 
